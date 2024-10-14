@@ -1,13 +1,15 @@
 body{
-    background-color: hsl(155, 32%, 69%);
+    background-color: hsl(155, 45%, 16%);
     text-align: center;
     margin: auto;
     padding-top: 25%;
     padding-bottom: 25%;
+    text-decoration-color: white;
+    color: white;
 }
 #container{
-    background-color: grey;
-    border: 5px solid;
+    background-color: hsl(0, 5%, 15%);
+    border: 5px solid grey;
     border-radius: 300px;
     width: fit-content;
     text-align: center;
@@ -20,6 +22,7 @@ body{
     text-align: center;
     font-family: bold;
     font-size: 2rem;
+    color: white;
 }
 button{
     font-style: italic;
